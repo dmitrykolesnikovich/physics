@@ -1,0 +1,1206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3ff1307-a7f8-4d6a-ae54-22ac1bc7ee15" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/resources/Basketball.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/resources/Crate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gluegen-rt.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/joal.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jocl.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jogl_cg.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jogl_desktop.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jogl_mobile.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/gluegen-rt-natives-windows-amd64.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/gluegen-rt.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/gluegen.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/jogl-all-natives-windows-amd64.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/jogl-all.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/jogl-natives-windows-amd64.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/jogl-util-awt.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/jogl.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/nativewindow.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/newt-awt.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/newt-ogl.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/newt.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nativewindow_awt.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/nativewindow_win32.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/newt.dll" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/add-body-dialog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/add-body-done.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/add-fixture-rect.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/add-joint-dialog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/add-joint-done.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/add-ray-dialog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/add-ray-done.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/body-context-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/body-folder-context-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/bounds-context-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/bounds-dialog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/camera-toolbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/contacts-tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/edit-body-transform.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/edit-fixture-dialog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/edit-fixture-transform.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/empty-world-tree.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/export-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/file-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/fixture-context-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/fps-toolbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/joint-context-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/joint-folder-context-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/memory-tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/preferences-dialog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/preferences-toolbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/ray-context-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/rays-folder-context-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/scale-overlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/selected-body-running.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/selected-body.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/selected-fixture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/settings-dialog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/snapshot-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/system-tab.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/tests-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/window-menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/aa-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/aabb-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/about-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-angle-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-body-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-circle-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-distance-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-friction-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-hull-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-motor-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-mouse-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-non-convex-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-polygon-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-prismatic-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-pulley-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-ray-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-rectangle-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-revolute-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-rope-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-segment-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-weld-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/add-wheel-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/angle-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/body-center-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/body-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/body-label-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/bounds-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/center-on-origin-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/check-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/circle-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/clear-all-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/color-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/contact-impulse-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/contact-pair-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/contact-point-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-angle-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-body-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-bounds-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-circle-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-distance-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-folder-closed-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-folder-open-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-friction-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-motor-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-mouse-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-polygon-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-prismatic-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-pulley-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-ray-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-rectangle-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-revolute-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-rope-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-segment-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-weld-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-wheel-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/disabled-world-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/distance-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-angle-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-body-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-circle-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-distance-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-friction-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-motor-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-mouse-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-polygon-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-prismatic-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-pulley-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-ray-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-rectangle-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-revolute-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-rope-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-segment-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-weld-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-wheel-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/edit-world-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/export-java-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/fixture-label-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/folder-closed-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/folder-open-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/force-at-point-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/force-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/friction-impulse-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/friction-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/help-closed-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/help-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/help-leaf-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/help-open-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/info-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/motor-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/mouse-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/new-simulation-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/normal-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/open-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/origin-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/pause-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/polygon-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/preferences-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/prismatic-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/pulley-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/ray-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/rectangle-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-angle-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-body-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-circle-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-distance-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-friction-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-motor-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-mouse-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-polygon-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-prismatic-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-pulley-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-ray-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-rectangle-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-revolute-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-rope-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-segment-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-weld-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/remove-wheel-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/reset-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/revolute-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/rope-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/rotation-disc-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/sandbox-icon-128.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/sandbox-icon-256.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/sandbox-icon-32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/sandbox-icon-48.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/sandbox-icon-64.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/save-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/scale-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/segment-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/set-bounds-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/settings-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/shift-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/snapshot-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/snapshot-remove-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/snapshot-take-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/start-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/stencil-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/step-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/stop-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/stopped-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/sync-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/to-origin-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/torque-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/unset-bounds-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/velocity-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/weld-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/wheel-joint-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/world-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/zoom-in-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/zoom-out-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dyn4j.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/examples.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/examples/ExampleGraphics2D.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/examples/ExampleJOGL.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/examples/Graphics2DRenderer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/examples/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/Billiards.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/BowlingBall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/LinkTerrain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/MouseDrag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/MouseInteraction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/MousePicking.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/PlayerControl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/Ragdoll.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/Raycast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/RenderingImagesOnBodies.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/SimplePlatformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/SimulationBody.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/SimulationFrame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/StopBodyAfterCollision.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/Thrust.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/TrackingContactIds.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples/org/dyn4j/samples/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/Camera.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/ContactCounter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/NullBounds.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/Preferences.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/Sandbox.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/SandboxBody.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/SandboxRay.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/Simulation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/VersionException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/actions/Action.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/actions/MoveAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/actions/MoveWorldAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/actions/RotateAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/actions/SelectAction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/controls/BottomButtonPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/controls/ClasspathHtmlEditorKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/controls/ComboItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/controls/JSliderWithTextField.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/controls/MouseLocationTextField.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/AboutDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/AddBodyDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/AddConvexFixtureDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/AddConvexHullFixtureDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/AddJointDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/AddNonConvexFixtureDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/AddRayDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/ApplyForceAtPointDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/ApplyForceDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/ApplyTorqueDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/ColorDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/EditBodyDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/EditFixtureDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/EditJointDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/EditRayDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/EditWorldDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/ExceptionDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/HelpDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/PreferencesDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/SampleFileDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/SetBoundsDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/SettingsDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/dialogs/ShiftWorldDialog.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/events/BodyActionEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/export/CodeExporter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/Help.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/HelpNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/HelpReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/add-body.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/add-joint.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/add-ray.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/bounds.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/camera.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/edit-fixture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/edit-joint.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/edit-ray.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/export.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/general.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/movingBodiesFixtures.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/newOpenSave.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/preferences.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/remove-body.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/remove-fixture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/remove-joint.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/remove-ray.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/settings.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/snapshots.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/startStopStep.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/status.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/help/tests.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/icons/Icons.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/input/Input.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/input/Keyboard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/input/Mouse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/input/MouseButton.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/listeners/SelectTextFocusListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/AngleJointPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/ArbitraryConvexHullPolygonPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/ArbitraryConvexPolygonPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/ArbitraryNonConvexPolygonPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/BodyPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/CirclePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/ColorPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/ContactPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/ConvexHullPolygonPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/ConvexHullShapePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/ConvexPolygonPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/ConvexShapePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/DistanceJointPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/EquilateralTrianglePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/FixturePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/ForceAtPointPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/ForcePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/FrictionJointPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/FromFileConvexHullPolygonPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/FromFileConvexPolygonPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/FromFileNonConvexPolygonPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/InputPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/IsoscelesTrianglePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/JointPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/LineGraphPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/MemoryPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/MotorJointPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/MouseJointPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/NonConvexPolygonPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/NonConvexShapePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/PointPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/PreferencesPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/PreviewPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/PrismaticJointPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/PulleyJointPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/RayPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/RectanglePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/RevoluteJointPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/RightTrianglePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/RopeJointPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/SegmentPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/SettingsPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/ShiftWorldPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/SimulationTreePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/SystemPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/TorquePanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/TransformPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/UnitCirclePolygonPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/WeldJointPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/WheelJointPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/panels/WorldPanel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/persist/XmlFormatter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/persist/XmlGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/persist/XmlReader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/persist/sandbox.xsd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/resources/Messages.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/resources/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/resources/messages.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Angle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/AngleRatio.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Animate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Bridge.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Bucket.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Bullet.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Chain.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/CompiledSimulation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Concave.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Conveyor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/CoordinateShift.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Crank.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Destructible.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/DivingBoard.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Dyn4j.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/FastRotations.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Filter.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Funnel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/JointCollision.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Motor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Mouse.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/NewtonsCradle.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Parallel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Plotter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Prismatic.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Pulley.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Pyramid.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Raycast.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/RaycastPerformance.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Restitution.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Rope.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Seesaw.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Sensor.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Shapes.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Sleep.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/SpringDamper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Stack.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Terrain.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Wagon.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Weld.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/Wheel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/tests/list.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/utilities/ColorUtilities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/utilities/ControlUtilities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/utilities/ExceptionUtilities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/utilities/Fps.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/utilities/ImageUtilities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/utilities/RenderUtilities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/utilities/SystemUtilities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/org/dyn4j/sandbox/utilities/UIUtilities.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sandbox/sandbox.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/BinarySearchTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/BinarySearchTreeIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/BinarySearchTreeNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/BinarySearchTreeSearchCriteria.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/DataContainer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/Epsilon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/Listener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/Reference.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/UnitConversion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/Version.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/AbstractBounds.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/AbstractCollidable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/AxisAlignedBounds.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/Bounds.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/BoundsAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/BoundsListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/CategoryFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/Collidable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/Collisions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/Filter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/Fixture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/FixtureIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/TypeFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/broadphase/AbstractBroadphaseDetector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/broadphase/BroadphaseDetector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/broadphase/BroadphaseFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/broadphase/BroadphaseFilterAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/broadphase/BroadphaseItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/broadphase/BroadphaseKey.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/broadphase/BroadphasePair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/broadphase/DefaultBroadphaseFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/broadphase/DynamicAABBTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/broadphase/DynamicAABBTreeLeaf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/broadphase/DynamicAABBTreeNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/broadphase/Sap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/broadphase/SapProxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/broadphase/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/continuous/ConservativeAdvancement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/continuous/TimeOfImpact.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/continuous/TimeOfImpactDetector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/continuous/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/manifold/ClippingManifoldSolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/manifold/IndexedManifoldPointId.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/manifold/Manifold.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/manifold/ManifoldPoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/manifold/ManifoldPointId.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/manifold/ManifoldSolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/manifold/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/AbstractFallbackCondition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/CircleDetector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/DistanceDetector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/Epa.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/ExpandingSimplex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/ExpandingSimplexEdge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/FallbackCondition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/FallbackNarrowphaseDetector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/Gjk.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/LinkPostProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/MinkowskiPenetrationSolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/MinkowskiSum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/MinkowskiSumPoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/NarrowphaseDetector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/NarrowphasePostProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/PairwiseTypedFallbackCondition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/Penetration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/Raycast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/RaycastDetector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/Sat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/SegmentDetector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/Separation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/SingleTypedFallbackCondition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/TypedFallbackCondition.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/narrowphase/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/collision/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/AABBBroadphaseFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/Body.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/BodyFixture.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/BodyIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/Capacity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/CoefficientMixer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/CollisionAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/CollisionListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/Constraint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/ContactEdge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/ContinuousDetectionMode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/ConvexCastAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/ConvexCastListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/ConvexCastResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/DestructionAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/DestructionListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/DetectAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/DetectBroadphaseFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/DetectListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/DetectResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/Force.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/InteractionEdge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/Island.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/JointEdge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/JointIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/RaycastAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/RaycastBroadphaseFilter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/RaycastListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/RaycastResult.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/Settings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/Step.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/StepAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/StepListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/TimeOfImpactAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/TimeOfImpactListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/Torque.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/World.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/contact/Contact.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/contact/ContactAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/contact/ContactConstraint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/contact/ContactConstraintId.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/contact/ContactConstraintSolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/contact/ContactListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/contact/ContactManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/contact/ContactPoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/contact/ContactPointId.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/contact/PersistedContactPoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/contact/SequentialImpulses.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/contact/SimpleContactManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/contact/SolvedContactPoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/contact/TimeOfImpactSolver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/contact/WarmStartingContactManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/contact/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/joint/AngleJoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/joint/DistanceJoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/joint/FrictionJoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/joint/Joint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/joint/LimitState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/joint/MotorJoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/joint/PinJoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/joint/PrismaticJoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/joint/PulleyJoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/joint/RevoluteJoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/joint/RopeJoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/joint/WeldJoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/joint/WheelJoint.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/joint/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/dynamics/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/AABB.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/AbstractShape.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Capsule.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Circle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Convex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/EdgeFeature.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Ellipse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Feature.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Geometry.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/HalfEllipse.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Interval.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Link.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Mass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/MassType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Matrix22.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Matrix33.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/PointFeature.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Polygon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Ray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Rectangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Rotatable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Segment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Shape.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Shiftable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Slice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Transform.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Transformable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Translatable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Triangle.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Vector2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Vector3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/Wound.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/WoundIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/Bayazit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/ClosestEdgeToVertexSearchCriteria.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/Decomposer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/DoubleEdgeList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/DoubleEdgeListFace.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/DoubleEdgeListHalfEdge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/DoubleEdgeListVertex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/EarClipping.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/EarClippingVertex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/MonotoneChainType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/MonotonePolygon.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/MonotonePolygonType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/MonotoneVertex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/SweepLine.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/SweepLineEdge.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/SweepLineState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/SweepLineVertex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/SweepLineVertexType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/Triangulator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/decompose/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/hull/DivideAndConquer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/hull/GiftWrap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/hull/GrahamScan.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/hull/HullGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/hull/LinkedVertex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/hull/LinkedVertexHull.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/hull/MinXPointComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/hull/MinXYPointComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/hull/MonotoneChain.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/hull/ReferencePointComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/hull/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/geometry/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/package-info.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/resources/Messages.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/org/dyn4j/resources/messages.properties" />
+    </list>
+    <ignored path="dyn4j.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="dyn4j" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ExampleJOGL.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/org/dyn4j/examples/ExampleJOGL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5">
+              <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$USER_HOME$/Downloads/test" value="10213873933129" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1374" />
+    <option name="height" value="748" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dyn4j" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\dyn4j" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\dyn4j\examples" />
+      <recent name="D:\workspace\dyn4j\sandbox" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Sandbox">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
+      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
+      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
+      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
+      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
+      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="dyn4j" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="false" name="Sandbox" type="Application" factoryName="Application" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.dyn4j.sandbox.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.dyn4j.sandbox.Sandbox" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="sandbox" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.Sandbox" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3ff1307-a7f8-4d6a-ae54-22ac1bc7ee15" name="Default" comment="" />
+      <created>1467845536059</created>
+      <option name="number" value="Default" />
+      <updated>1467845536059</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1374" height="748" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IntelliGuard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33068362" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290938" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3990461" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/examples/org/dyn4j/examples/ExampleJOGL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/org/dyn4j/examples/ExampleJOGL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/org/dyn4j/examples/ExampleJOGL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/org/dyn4j/examples/ExampleJOGL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/org/dyn4j/examples/ExampleJOGL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Android SDK</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dyn4j</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>Android SDK</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
