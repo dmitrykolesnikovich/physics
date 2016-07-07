@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="sandbox:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sandbox_jar</output-path>
+    <root id="archive" name="sandbox.jar">
+      <element id="module-output" name="sandbox" />
+      <element id="module-output" name="dyn4j" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gluegen-rt-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/newt-ogl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/nativewindow.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gluegen.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jogl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/newt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jogl-util-awt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jogl-all.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/gluegen-rt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jogl-all-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/newt-awt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jogl-natives-windows-amd64.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/gluegen-rt.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/joal.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/jocl.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/jogl_cg.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/jogl_desktop.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/jogl_mobile.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/nativewindow_awt.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/nativewindow_win32.dll" />
+      <element id="file-copy" path="$PROJECT_DIR$/newt.dll" />
+    </root>
+  </artifact>
+</component>
